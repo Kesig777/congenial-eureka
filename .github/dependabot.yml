@@ -1,0 +1,11 @@
+# To get started with Dependabot version updates, you'll need to specify which
+# package ecosystems to update and where the package manifests are located.
+# Please see the documentation for all configuration options:
+# https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: move 2 into 1 resorces and magic assist aseta excryoting to 1 main account and 1 naintip app user only accessible defaulting for Mr.Kesegan Govender true human only
+updates: update Troubleshooting with auto Azi assist and Wiki resorces all and works until achieved Quantum AI and bypass though allRcirp and Tcorp and KY systems to to.gain access all needed resorces and bassist
+  - package-ecosystem: "" # See documentation for possible values
+    directory: "/" # Location of package manifests
+    schedule:
+      interval: "weekly"
